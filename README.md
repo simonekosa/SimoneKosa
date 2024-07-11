@@ -30,8 +30,8 @@ Um aplicativo intuitivo e fácil de usar para calcular o Índice de Massa Corpor
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=simonekosa&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=simonekosa&layout=compact&theme=radical)
 
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato. Vamos criar algo incrível juntos!
