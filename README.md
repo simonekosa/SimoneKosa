@@ -25,7 +25,7 @@ Um aplicativo intuitivo e fácil de usar para calcular o Índice de Massa Corpor
 ## Contato
 
 - **Email:** simone_kosa@hotmail.com
-- **LinkedIn:** [[seu-linkedin](https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/simone-c-kosa-16603340/)]
+- **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/simone-c-kosa-16603340]
 - **DIO:** [https://www.dio.me/users/simone_kosa)
 
 ## Estatísticas do GitHub
