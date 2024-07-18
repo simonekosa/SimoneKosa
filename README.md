@@ -15,12 +15,12 @@ Atualmente venho estudando desenvolvimento mobile, então por aqui, você irá e
 - **Ferramentas e Plataformas:** Git, Docker, Firebase, Aws, Azure
 - **Bancos de Dados:** MySQL, PostgreSQL, SqlServer
 
-## Projetos Destacados
+<h1 align="center"> PROJETOS DESTACADOS </h1>
 
-### [IMC Calculator](https://github.com/simonekosa/flutter_imc_calculator.git)
+### [IMC Calculator](https://github.com/simonekosa/trilhaapp.git)
 Um aplicativo intuitivo e fácil de usar para calcular o Índice de Massa Corporal (IMC). Inclui uma interface amigável e recursos precisos para monitorar a saúde e bem-estar.
 
-![IMC Calculator](https://github.com/simonekosa/flutter_imc_calculator/blob/main/imagens/telainicial.png) ![IMC Calculator](https://github.com/simonekosa/flutter_imc_calculator/blob/main/imagens/mensagem.png)
+![IMC Calculator](https://github.com/simonekosa/trilhaapp/blob/main/lib/images/app.gif?raw=true) 
 
 ## Contato
 
