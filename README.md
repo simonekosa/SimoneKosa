@@ -20,7 +20,15 @@ Atualmente venho estudando desenvolvimento mobile, então por aqui, você irá e
 ### [IMC Calculator](https://github.com/simonekosa/trilhaapp.git)
 Um aplicativo intuitivo e fácil de usar para calcular o Índice de Massa Corporal (IMC). Inclui uma interface amigável e recursos precisos para monitorar a saúde e bem-estar.
 
-![IMC Calculator](https://github.com/simonekosa/trilhaapp/blob/main/lib/images/app.gif?raw=true) 
+# Meu Projeto
+
+## Telas Versão Inicial
+<p align="center">
+  <img src="https://github.com/simonekosa/trilhaapp/blob/main/lib/images/telainicial.gif?raw=true" width="300" />
+  <img src="https://github.com/simonekosa/trilhaapp/blob/main/lib/images/dadosCadastrais.gif?raw=true" width="300" />
+  <img src="https://github.com/simonekosa/trilhaapp/blob/main/lib/images/listaresultados.gif?raw=true" width="300" />
+</p>
+
 
 ## Contato
 
