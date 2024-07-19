@@ -24,9 +24,9 @@ Um aplicativo intuitivo e fácil de usar para calcular o Índice de Massa Corpor
 
 ## Telas Versão Inicial
 <p align="center">
-  <img src="https://github.com/simonekosa/trilhaapp/blob/main/lib/images/telainicial.gif?raw=true" width="300" />
-  <img src="https://github.com/simonekosa/trilhaapp/blob/main/lib/images/dadosCadastrais.gif?raw=true" width="300" />
-  <img src="https://github.com/simonekosa/trilhaapp/blob/main/lib/images/listaresultados.gif?raw=true" width="300" />
+  <img src="https://github.com/simonekosa/trilhaapp/blob/main/lib/images/telainicial.gif?raw=true" width="200" />
+  <img src="https://github.com/simonekosa/trilhaapp/blob/main/lib/images/dadosCadastrais.gif?raw=true" width="200" />
+  <img src="https://github.com/simonekosa/trilhaapp/blob/main/lib/images/listaresultados.gif?raw=true" width="200" />
 </p>
 
 
